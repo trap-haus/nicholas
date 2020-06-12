@@ -10,6 +10,6 @@ it's a bot that can change nicknames
 2. run `npm install`
 2. create `.env` file with secret `BOT_KEY`:
     ```console
-    export BOT_KEY={put your key here}
+    BOT_KEY={put your key here}
     ```
 3. run `node`
